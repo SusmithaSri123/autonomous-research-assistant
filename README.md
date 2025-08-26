@@ -22,4 +22,4 @@ python -m venv .venv
 pip install -r requirements.txt
 
 # run the app
-streamlit run app.py
+streamlit run research_assistant.py
